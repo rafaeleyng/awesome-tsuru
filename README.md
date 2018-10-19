@@ -1,6 +1,12 @@
 # Awesome Tsuru [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="./tsuru.png" align="right" width="150">](https://tsuru.io/)
+
 > Curated resources for Tsuru, the open source, extensible and Docker-based PaaS
+
+A curated list of plugins, services, routers and platforms for Tsuru.
+
+The list also includes videos, articles and general resources for learning about Tsuru.
 
 
 ## Contents
