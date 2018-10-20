@@ -2,33 +2,67 @@
 
 [<img src="./tsuru.png" align="right" width="150">](https://tsuru.io/)
 
-> Curated resources for Tsuru, the open source, extensible and Docker-based PaaS
+> Curated extensions and resources for Tsuru, the open source, extensible and Docker-based PaaS
 
-A curated list of plugins, services, routers and platforms for Tsuru.
-
-The list also includes videos, articles and general resources for learning about Tsuru.
+A curated list of plugins, services, routers, platforms and learning resources for Tsuru.
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Extensions](#extensions)
+  - [Platforms](#platforms)
+  - [Plugins](#plugins)
+  - [Routers](#routers)
+  - [Services](#services)
+- [Resources](#resources)
+  - [Articles](#articles)
+  - [Documentation](#documentation)
+  - [Podcasts](#podcasts)
+  - [Videos](#videos)
 
 
-## Section
+## Extensions
 
-About this section. Optional. Keep this short and focus on the list.
+### Platforms
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [base-platform](https://github.com/tsuru/base-platform) ([docker image](https://hub.docker.com/r/tsuru/base-platform/))
+- [official platforms](https://github.com/tsuru/platforms) (go, java, nodejs, python, ruby etc)
+
+### Plugins
+
+- [tsuru-bluegreen](https://github.com/emerleite/tsuru-bluegreen) - A blue-green deployment plugin for tsuru client
+- [app-address](https://github.com/scorphus/tsuru-plugins/blob/master/app-address) - Display all the addresses of a given app
+- [env-list](https://github.com/scorphus/tsuru-plugins/blob/master/env-list) - List environment variables of an app, including private ones
+- [goreplay](https://github.com/scorphus/tsuru-plugins/blob/master/goreplay) - Sniff the network interface and replay requests on another app
+
+### Routers
+
+- [planb](https://github.com/tsuru/planb)
+
+### Services
+
+- [rpaas](https://github.com/tsuru/rpaas) - Reverse Proxy as a Service
+- [healthcheck-as-a-service](https://github.com/tsuru/healthcheck-as-a-service) - tsuru service API for on demand web application monitoring
 
 
-## Another Section
+## Resources
 
-### Subsection
+### Articles
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Running tsuru in production: scaling and segregating Docker containers](https://blog.tsuru.io/running-tsuru-in-production-scaling-and-segregating-docker-containers-d55f99c1603e)
+- [Tsuru PaaS on Google Cloud Platform](https://blog.tsuru.io/tsuru-paas-on-google-cloud-platform-21640abb4386)
+
+### Documentation
+
+- [tsuru documentation](https://docs.tsuru.io/stable/) - official documentation
+- [tsuru-client documentation](https://tsuru-client.readthedocs.io/en/latest/) - tsuru CLI official documentation
+
+### Videos
+
+- [Tsuru PaaS - Service industrialization at scale](https://www.youtube.com/watch?v=GiMsS0vGmn4) (English)
+- [Tsuru: Serve it yourself](https://www.youtube.com/watch?v=jBRjb6-DIsA&t) (English)
+- [Microservicios con Tsuru, un PaaS extensible y open source](https://www.youtube.com/watch?v=ZLHptOpWw2I) (Spanish)
+- [Tsuru Live Code](https://www.youtube.com/watch?v=dC79RpifEQI) (Portuguese)
 
 
 ## Contribute
