@@ -34,6 +34,7 @@ A curated list of plugins, services, routers, platforms and learning resources f
 - [app-address](https://github.com/scorphus/tsuru-plugins/blob/master/app-address) - Display all the addresses of a given app
 - [env-list](https://github.com/scorphus/tsuru-plugins/blob/master/env-list) - List environment variables of an app, including private ones
 - [goreplay](https://github.com/scorphus/tsuru-plugins/blob/master/goreplay) - Sniff the network interface and replay requests on another app
+- [admtools](https://github.com/tsuru/admtools) - Debugging tools for apps running in tsuru.
 
 ### Routers
 
