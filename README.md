@@ -44,6 +44,7 @@ A curated list of plugins, services, routers, platforms and learning resources f
 
 - [rpaas](https://github.com/tsuru/rpaas) - Reverse Proxy as a Service
 - [healthcheck-as-a-service](https://github.com/tsuru/healthcheck-as-a-service) - tsuru service API for on demand web application monitoring
+- [autoscale](https://github.com/tsuru/tsuru-autoscale) - Autoscale as a service
 
 
 ## Resources
