@@ -9,6 +9,7 @@ A curated list of plugins, services, routers, platforms and learning resources f
 
 ## Contents
 
+- [Components](#components)
 - [Extensions](#extensions)
   - [Platforms](#platforms)
   - [Plugins](#plugins)
@@ -19,6 +20,11 @@ A curated list of plugins, services, routers, platforms and learning resources f
   - [Documentation](#documentation)
   - [Podcasts](#podcasts)
   - [Videos](#videos)
+
+
+## Components
+
+- [tsuru-dashboard](https://github.com/tsuru/tsuru-dashboard) - The dashboard provides interesting features for both tsuru users (application information, metrics and logs for example) and tsuru admins (hosts metrics, healings and much more).
 
 
 ## Extensions
@@ -46,9 +52,6 @@ A curated list of plugins, services, routers, platforms and learning resources f
 - [healthcheck-as-a-service](https://github.com/tsuru/healthcheck-as-a-service) - tsuru service API for on demand web application monitoring
 - [autoscale](https://github.com/tsuru/tsuru-autoscale) - Autoscale as a service
 
-## Components
-
-- [tsuru-dashboard](https://github.com/tsuru/tsuru-dashboard) - The dashboard provides interesting features for both tsuru users (application information, metrics and logs for example) and tsuru admins (hosts metrics, healings and much more).
 
 ## Resources
 
